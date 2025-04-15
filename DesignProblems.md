@@ -54,5 +54,5 @@
 
 
 
-Design an audit trail system for capturing critical user activity. How would you ensure compliance with data privacy laws like GDPR?
+* Design an audit trail system for capturing critical user activity. How would you ensure compliance with data privacy laws like GDPR?
 
