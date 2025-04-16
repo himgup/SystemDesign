@@ -6,3 +6,8 @@
 
 * Architecture Patterns
     -CQRS
+
+* Design Patterns
+    -Creational Design Pattern
+    -Structural Design Pattern
+    -Behavioral Design Pattern
